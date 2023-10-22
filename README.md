@@ -1,5 +1,5 @@
-# Preventative-Maintenance-using-AI-ML-ModelsProject: Preventative Maintenance Using AI/ML models
-Dataset: Predictive Maintenance Dataset
+# Preventative-Maintenance-using-AI-ML-ModelsProject
+
 
 # Business Problem
 Predictive Maintenance (PdM) in the industrial context refers to the use of data, analytics, and 
